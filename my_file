@@ -1,1 +1,10 @@
-my file for testing
+continuous integration goal - bug free code, fullly atutomated process, integration with IDE, SCM (GIT), BUILD, TEST , EVALUATE eXAMPLE - JENKINS
+CONTINUOUS DEPLOYMENT - AUTOMATE DEVELOPMENT OF ARTIFACT
+MySQL PORT NO. 3306
+ MEMCACHED PORT NO. 11211 FOR TCP, UDP - 11111
+ NGINX PORT NO. 80
+ RABBITMQ POR TNO . 25672
+ APACHE TOMCAT - 8080
+ HTTP - 80
+ HTTPS - 443
+ 
